@@ -1,1 +1,1 @@
-GRANT SELECT, UPDATE ON books TO 'Martin'@'localhost';
+GRANT SELECT, UPDATE ON books TO 'martin'@'localhost';
