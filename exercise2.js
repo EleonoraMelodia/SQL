@@ -1,0 +1,5 @@
+ALTER TABLE books 
+ADD COLUMN publisher TEXT;
+
+ALTER TABLE books 
+ADD COLUMN pages INT;
